@@ -1,2 +1,4 @@
+Run the notebook script at:
 
-![Uploading image.png…]()
+rc_experiment_script/*Experiment*.ipynb
+
